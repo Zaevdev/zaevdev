@@ -23,7 +23,7 @@
 
 ### :man_technologist: About Me :
 
-I'm a Junior PHP Developer (Backend)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nizhny Novgorod (Russia).
+I'm a PHP Developer (Backend)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nizhny Novgorod (Russia).
 
 :telescope: I'm learning programming to create complete web interfaces
 
