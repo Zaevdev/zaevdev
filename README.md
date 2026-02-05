@@ -23,13 +23,13 @@
 
 ### :man_technologist: About Me :
 
-I'm a PHP Developer (Backend)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nizhny Novgorod (Russia).
+I'm a PHP Developer (Backend)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow (Russia).
 
 :telescope: I'm learning programming to create complete web interfaces
 
 - :seedling: I actively study Laravel and all its charms
 
-- :zap: In my free time I read technical articles and professional literature. I don’t care about video tutorials, as well as StackOverflow
+- :zap: In my free time I read technical articles and professional literature. I don’t care about video tutorials, as well as <strike>StackOverflow</strike> AI
 
 ---
 
