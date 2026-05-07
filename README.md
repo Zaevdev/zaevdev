@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=CC241D&center=true&vCenter=true&width=760&height=44&lines=Senior+backend+engineer+%C2%B7+PHP+%2F+Laravel;Domain-driven.+Test-first.;Architecture+%3E+frameworks." alt="Typing header"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3200&pause=1400&color=CC241D&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=56&lines=Senior+backend+engineer+%E2%80%A2+PHP+%2F+Laravel;Domain-driven.+Test-first.;Architecture+%3E+frameworks." alt="Senior backend engineer · PHP / Laravel · Domain-driven · Test-first · Architecture > frameworks"/>
   </a>
 </p>
 
@@ -407,6 +407,6 @@ gh     github.com/zaevdev
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=99999&color=CC241D&background=00000000&center=false&vCenter=true&width=420&height=32&lines=zaevdev%40github%3A~%24+" alt="blinking prompt"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=550&color=CC241D&background=00000000&center=false&vCenter=true&multiline=false&repeat=true&width=300&height=30&lines=zaevdev%40github%3A~%24+%E2%96%88;zaevdev%40github%3A~%24+%C2%A0" alt="zaevdev@github:~$ blinking cursor"/>
   </a>
 </p>
